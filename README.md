@@ -21,7 +21,7 @@ This project implements object detection and tracking for characters in the Valo
 The model was trained on a specialized Valorant dataset with impressive metrics:
 * **Precision:** 0.961 (96.1%)
 * **Recall:** 0.941 (94.1%)
-* **mAP@50:** *(Fill in your mAP metric here)*
+* **mAP@50:** 0.986(98.6%)
 
 ## 🛠 Installation & Usage
 
