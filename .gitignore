@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Python & Environment
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# YOLO / Computer Vision
+runs/
+*.pt
+*.onnx
+datasets/
+dataset/
+
+# VS Code
+.vscode/
