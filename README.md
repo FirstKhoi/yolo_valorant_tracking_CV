@@ -8,8 +8,7 @@
 This project implements object detection and tracking for characters in the Valorant game based on the **YOLO26s** architecture and the **ByteTrack** algorithm. This is part of a development roadmap to becoming an AI Engineer, focusing on high-speed video processing and optimal accuracy in complex gaming environments.
 
 ## 📺 Demo
-*(Insert video link or result GIF here)*
-> [Watch the high-quality demo video here](https://youtu.be/L_bL-CjXj04)
+> [Watch the demo video here](https://youtu.be/L_bL-CjXj04)
 
 ## 🚀 Key Features
 * **Object Detection:** Accurately recognizes Players (Enemy/Ally) with high confidence scores.
